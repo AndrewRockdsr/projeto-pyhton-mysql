@@ -57,7 +57,6 @@ def TimesComJogadores():
         print(time.replace('_', ' ').title().center(60))
     print('-=-'*20)
 
-TimesComJogadores()
 
 os.system('cls')
 

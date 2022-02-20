@@ -1,2 +1,2 @@
 # projeto-pyhton-mysql
-visualiza times e jogadores, adiciona times e jogadores em um banco de dados
+Visualiza times e jogadores cadastrados nesses times. Tambem adiciona novos times e novos jogadores.
